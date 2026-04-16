@@ -1,4 +1,4 @@
-Thought for a couple of seconds
+
 # ClodTelemetryBridge
 
 A small Windows telemetry bridge for **IL-2 Sturmovik: Cliffs of Dover / Blitz**.
