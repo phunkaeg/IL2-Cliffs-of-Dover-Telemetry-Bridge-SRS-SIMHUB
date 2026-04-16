@@ -57,7 +57,8 @@ The bridge currently uses these known live values from `CLODDeviceLink`:
 
 ## How to run
 
-### Directly from the exe
+### Directly from the bat
 
 ```bat
-ClodTelemetryBridge.exe -srs
+Launch_ClodTelemetryBridge.bat
+
